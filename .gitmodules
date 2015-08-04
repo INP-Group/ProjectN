@@ -7,3 +7,6 @@
 [submodule "utils"]
 	path = utils
 	url = git@github.com:INP-Group/ProjectN-Utils.git
+[submodule "monitors"]
+	path = monitors
+	url = git@github.com:INP-Group/ProjectN-Monitors.git

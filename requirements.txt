@@ -1,0 +1,4 @@
+-r control/requirements.txt
+-r storage/requirements.txt
+-r utils/requirements.txt
+-r monitors/requirements.txt
