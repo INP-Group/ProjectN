@@ -1,9 +1,0 @@
-[submodule "control"]
-	path = control
-	url = git@github.com:INP-Group/ProjectN-Control.git
-[submodule "storage"]
-	path = storage
-	url = git@github.com:INP-Group/ProjectN-Storage.git
-[submodule "utils"]
-	path = utils
-	url = git@github.com:INP-Group/ProjectN-Utils.git
